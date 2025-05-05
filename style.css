@@ -1,0 +1,27 @@
+h5 {
+    color: aqua;
+}
+
+p {
+    font-size: large;
+}
+
+#welcome {
+    color: chartreuse;
+}
+a.text {
+    color: orangered;
+}
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h5,p {
+    
+}
+/*
+simple selector types
+        - tags selector
+        -id selector
+        -class selector
+        -universal selector
+*/
